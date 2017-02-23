@@ -18,13 +18,13 @@ Your objectives for the day is to achieve:
 
 ### Plan
 
-- [ ] Signup for [Udacity Javascript Basics][udacity]
-- [ ] Complete [Getting up and running & Problem Set 0][udacity]
-- [ ] Complete [Data Types and Problem Set 1][udacity]
-- [ ] Complete [Flow Control and Problem Set 2][udacity]
-- [ ] Complete [Quiz: Relationships][udacity]
-- [ ] Complete [Quiz: Astronaut Arrays][udacity]
-- [ ] Complete [Quiz: Pagespeed Insights][udacity]
+- [x] Signup for [Udacity Javascript Basics][udacity]
+- [x] Complete [Getting up and running & Problem Set 0][udacity]
+- [x] Complete [Data Types and Problem Set 1][udacity]
+- [x] Complete [Flow Control and Problem Set 2][udacity]
+- [x] Complete [Quiz: Relationships][udacity]
+- [x] Complete [Quiz: Astronaut Arrays][udacity]
+- [x] Complete [Quiz: Pagespeed Insights][udacity]
 
 
 ### Stretch
@@ -50,23 +50,23 @@ Today you objectives are to put in practice the concepts you learned yesterday. 
 
 ### Plan
 
-- [ ] Complete the last 5 tasks of [Objects Basics Tutorial](https://learn.javascript.info/object)
-  - [ ] Link to your solution here (jsbin, gist, or a js file in this repo)
-- [ ] Complete the last 5 tasks of [Arrays Tutorial](https://learn.javascript.info/array)
- - [ ] Link to your solution here
-- [ ] Complete the last 5 tasks of [Array Methods](https://learn.javascript.info/array)
- - [ ] Link to your solution here
-- [ ] Complete the [Learn JS Basics tutorial](http://www.learn-js.org/en/Welcome)
-- [ ] Complete the [Learn JS Objects tutorial](http://www.learn-js.org/en/Object_Oriented_JavaScript)
+- [x] Complete the last 5 tasks of [Objects Basics Tutorial](https://learn.javascript.info/object)
+  - [x] Solution: https://gist.github.com/lizzkats/e04e536d002ff5e1fd3177c46a36dd03
+- [x] Complete the last 5 tasks of [Arrays Tutorial](https://learn.javascript.info/array)
+ - [x]https://gist.github.com/lizzkats/03111831d10aeba0db564474f378f340
+- [x] Complete the last 5 tasks of [Array Methods](https://learn.javascript.info/array)
+ - [x] https://gist.github.com/lizzkats/197bcfc5550df1fafa6ca952757f5a0b
+- [x] Complete the [Learn JS Basics tutorial](http://www.learn-js.org/en/Welcome)
+- [x] Complete the [Learn JS Objects tutorial](http://www.learn-js.org/en/Object_Oriented_JavaScript)
 
 *These next 3 steps are part of [Front End Masters JS Course](https://frontendmasters.com/courses/js-fundamentals-to-functional/). You might need to watch the videos and part of the course to make it through. Reach out to staff for an invite code if you don't already have an account.*
 
-- [ ] Complete the [Array Exercises](https://github.com/bgando/array-exercises)
-  - [ ] Link to your solution here
+- [x] Complete the [Array Exercises](https://github.com/bgando/array-exercises)
+  - [x] https://gist.github.com/lizzkats/89cecd39fe2de1e9cdb2dc94f3c0eca7
 - [ ] Complete the [Function Exercises](https://github.com/bgando/function-exercises)
   - [ ] Link to your solution here
-- [ ] Complete the [Object Exercises](https://github.com/bgando/object-exercises)
-  - [ ] Link to your solution here
+- [x] Complete the [Object Exercises](https://github.com/bgando/object-exercises)
+  - [x] https://gist.github.com/lizzkats/4cba01e523503c5503f814eee76a15f5
 
 - Browse in the terminal to the `js-assessment` folder in this repo.
 - Run `npm install` and `npm start`, then goto `http://127.0.0.1:4444/` in your browser.
